@@ -6,6 +6,8 @@ palette of rust, amber, olive, and sage.
 
 ![Palette](palette.png)
 
+![Desktop with Neovim, VS Code, and Chromium](screenshots/desktop.png)
+
 ## Install
 
 ```bash
