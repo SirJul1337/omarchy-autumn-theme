@@ -24,4 +24,12 @@ That's it — the theme is applied immediately as **Autumn**.
 - **VS Code** — Gruvbox Material Dark
 - **Icons** — Yaru-wartybrown
 
-![Backgrounds](backgrounds-preview.png)
+## Backgrounds
+
+Five wallpapers included — cycle with `omarchy theme bg next`.
+
+| | |
+|---|---|
+| ![Autumn landscape 1](previews/1-autumn-landscape.jpg) | ![Autumn landscape 2](previews/2-autumn-landscape.jpg) |
+| ![Autumn landscape 3](previews/3-autumn-landscape.jpg) | ![Autumn landscape 4](previews/4-autumn-landscape.jpg) |
+| ![Autumn bokeh](previews/5-autumn-bokeh.jpg) | |
